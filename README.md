@@ -235,6 +235,6 @@ flutter run
 
 ## 👨‍💻 Author
 
-**Sri Saravanan** — 22MIA1162  
-B.Tech CSE (AI & Machine Learning)  
-Hackathon 2025
+**Sri Saravanan K.B** — 22MIA1162  
+Integrated M.Tech CSE (Business Analytics)  
+Hackathon 2026
