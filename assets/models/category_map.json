@@ -1,0 +1,12 @@
+{
+  "Alcohol": 0,
+  "Electronics": 1,
+  "Gaming": 2,
+  "Subscriptions": 3,
+  "Food & Dining": 4,
+  "Grocery": 5,
+  "Entertainment": 6,
+  "Fashion": 7,
+  "Health": 8,
+  "Travel": 9
+}

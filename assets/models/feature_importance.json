@@ -1,0 +1,15 @@
+{
+  "is_late_night": 0.6499746441841125,
+  "spend_ratio": 0.1004561260342598,
+  "mood_proxy_score": 0.08714692294597626,
+  "day_of_month": 0.07075250148773193,
+  "category_encoded": 0.028962410986423492,
+  "day_of_week": 0.018207205459475517,
+  "hour": 0.012492959387600422,
+  "gap_normalized": 0.012354093603789806,
+  "spending_velocity": 0.0054354253225028515,
+  "is_end_of_month": 0.0,
+  "is_weekend": 0.0,
+  "category_switch_count": 0.0,
+  "hour_bucket": 0.0
+}
